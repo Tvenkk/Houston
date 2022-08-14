@@ -1,0 +1,48 @@
+h1 {
+	font-style: sans-serif;
+	margin-bottom: -5px;
+	font-size: 32px;
+}
+
+h2 {
+	font-style: sans-serif;
+	margin-bottom: -5px;
+}
+
+h3 {
+	font-style: sans-serif;
+}
+
+table {
+	border: 1px solid black;
+}
+
+figure {
+	float: right;
+	margin: 0px 0px 5px 20px;
+}
+
+figcaption {
+	font-style: italic;
+	text-align: center;
+	color: #7B68EE;
+}
+
+th {
+	border: 1px solid black;
+	background-color: #D8BFD8;
+}
+
+td {
+	border: 1px solid black;
+}
+
+body {
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.opa {
+	width: 65%;
+}
